@@ -21,8 +21,8 @@ git commit -m 'Initial commit'
 git push -u origin master
 ```
 
-4. Write down your slide on PITCHME.md
-How to write PITCHME.md with Gitpitch: <a href='https://gitpitch.com/docs/'>docs</a>
+4. Write down your slide on PITCHME.md  
+How to write PITCHME.md with Gitpitch: <a href='https://gitpitch.com/docs/'>docs</a>  
 
 5. Open your first slide.
 ```
