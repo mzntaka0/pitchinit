@@ -25,5 +25,6 @@ git push -u origin master
 ```
 # Open the URL below on your browser
 https://gitpitch.com/$USER/$REPO_NAME
+```
 
 > You must substitute your GitHub account name for $USER and repository name for $REPO_NAME in the above slideshow URL.
