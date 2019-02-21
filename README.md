@@ -31,3 +31,15 @@ https://gitpitch.com/$USER/$REPO_NAME
 ```
 
 > You must substitute your GitHub account name for $USER and repository name for $REPO_NAME in the above slideshow URL.
+
+
+## Gitpitch desktop launch
+> You need to subscribe gitpitch. See detail <a href='https://gitpitch.com/'>here</a>.
+> Either needed to install docker and docker-compose(>ver1.22.0) and `docker login`.
+
+```
+docker-compose up -d
+```
+Then you can see your slide on your browser. Default link: <a href='http://localhost:9000'> http://localhost:9000</a>  
+
+See detail <a href='https://gitpitch.com/docs/pro-features/desktop-launch/'>here</a> about Gitpitch desktop with docker.
