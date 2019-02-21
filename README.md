@@ -1,5 +1,5 @@
 # pitchinit
-template for the structure of <a href='https://gitpitch.com/'>gitpitch</a>
+template for the structure of <a href='https://gitpitch.com/'>GitPitch</a>
 
 
 ## Preparing
@@ -22,7 +22,7 @@ git push -u origin master
 ```
 
 ### 4. Write down your slide on PITCHME.md  
-How to write PITCHME.md with Gitpitch: <a href='https://gitpitch.com/docs/'>docs</a>  
+How to write PITCHME.md with GitPitch: <a href='https://gitpitch.com/docs/'>docs</a>  
 
 ### 5. Open your first slide.
 ```
@@ -33,8 +33,8 @@ https://gitpitch.com/$USER/$REPO_NAME
 > You must substitute your GitHub account name for $USER and repository name for $REPO_NAME in the above slideshow URL.
 
 
-## Gitpitch desktop launch
-> You need to subscribe gitpitch. See detail <a href='https://gitpitch.com/'>here</a>.  
+## GitPitch desktop launch
+> You need to subscribe GitPitch. See detail <a href='https://gitpitch.com/'>here</a>.  
 > Either needed to install docker and docker-compose(>ver1.22.0) and log in to docker hub(run `docker login`).
 
 Launch
