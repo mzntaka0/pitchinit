@@ -35,7 +35,7 @@ https://gitpitch.com/$USER/$REPO_NAME
 
 ## Gitpitch desktop launch
 > You need to subscribe gitpitch. See detail <a href='https://gitpitch.com/'>here</a>.  
-> Either needed to install docker and docker-compose(>ver1.22.0) and run `docker login`.
+> Either needed to install docker and docker-compose(>ver1.22.0) and log in to docker hub(run `docker login`).
 
 ```
 docker-compose up -d
