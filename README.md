@@ -1,5 +1,5 @@
 # pitchinit
-template for the structure of gitpitch
+template for the structure of <a href='https://gitpitch.com/'>gitpitch</a>
 
 
 ## Preparing
@@ -21,7 +21,10 @@ git commit -m 'Initial commit'
 git push -u origin master
 ```
 
-4. Open your first slide.
+4. Write down your slide on PITCHME.md
+How to write PITCHME.md with Gitpitch: <a href='https://gitpitch.com/docs/'>docs</a>
+
+5. Open your first slide.
 ```
 # Open the URL below on your browser
 https://gitpitch.com/$USER/$REPO_NAME
