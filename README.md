@@ -37,8 +37,14 @@ https://gitpitch.com/$USER/$REPO_NAME
 > You need to subscribe gitpitch. See detail <a href='https://gitpitch.com/'>here</a>.  
 > Either needed to install docker and docker-compose(>ver1.22.0) and log in to docker hub(run `docker login`).
 
+Launch
 ```
 docker-compose up -d
+```
+
+Exit
+```
+docker-compose down
 ```
 Then you can see your slide on your browser. Default link: <a href='http://localhost:9000'> http://localhost:9000</a>  
 
