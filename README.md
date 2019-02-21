@@ -14,11 +14,16 @@ cd ${new_repo_name}
 git remote set-url origin ${new_repo_url}
 ```
 
-
-
 3.  Initial commit
 ```
 git add . 
 git commit -m 'Initial commit'
 git push -u origin master
 ```
+
+4. Open your first slide.
+```
+# Open the URL below on your browser
+https://gitpitch.com/$USER/$REPO_NAME
+
+> You must substitute your GitHub account name for $USER and repository name for $REPO_NAME in the above slideshow URL.
