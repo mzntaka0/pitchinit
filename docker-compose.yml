@@ -1,0 +1,10 @@
+version: '2.3'
+services:
+  gitpitch:
+    image: gitpitch/desktop:pro
+    container_name: gitpitch
+    volumes:
+      - .:/repo
+    ipc: "host"
+    ports:
+      - "9000:9000"
